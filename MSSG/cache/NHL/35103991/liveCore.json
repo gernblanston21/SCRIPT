@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "DALLAS STARS",
+  "OddsTeamHome": "CAROLINA HURRICANES",
+  "OddsAwayMarket": "DALLAS",
+  "OddsHomeMarket": "CAROLINA",
+  "OddsAwayNickname": "STARS",
+  "OddsHomeNickname": "HURRICANES",
+  "OddsAwayTri": "DAL",
+  "OddsHomeTri": "CAR",
+  "MoneylineAwayOdds": "+118",
+  "MoneylineHomeOdds": "-142",
+  "SpreadAwayHandicap": "+1.5",
+  "SpreadAwayOdds": "-205",
+  "SpreadHomeHandicap": "-1.5",
+  "SpreadHomeOdds": "+164",
+  "OverUnderTotalLine": "6.5",
+  "OverUnderTotalLineDuplicate": "6.5",
+  "OverOdds": "+112",
+  "UnderOdds": "-138"
+}

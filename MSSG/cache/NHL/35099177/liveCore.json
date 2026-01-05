@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "ANAHEIM DUCKS",
+  "OddsTeamHome": "WASHINGTON CAPITALS",
+  "OddsAwayMarket": "ANAHEIM",
+  "OddsHomeMarket": "WASHINGTON",
+  "OddsAwayNickname": "DUCKS",
+  "OddsHomeNickname": "CAPITALS",
+  "OddsAwayTri": "ANA",
+  "OddsHomeTri": "WSH",
+  "MoneylineAwayOdds": "+116",
+  "MoneylineHomeOdds": "-140",
+  "SpreadAwayHandicap": "+1.5",
+  "SpreadAwayOdds": "-205",
+  "SpreadHomeHandicap": "-1.5",
+  "SpreadHomeOdds": "+164",
+  "OverUnderTotalLine": "6.5",
+  "OverUnderTotalLineDuplicate": "6.5",
+  "OverOdds": "-122",
+  "UnderOdds": "+100"
+}

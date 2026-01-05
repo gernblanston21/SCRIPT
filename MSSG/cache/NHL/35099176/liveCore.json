@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "UTAH MAMMOTH",
+  "OddsTeamHome": "NEW YORK RANGERS",
+  "OddsAwayMarket": "UTAH",
+  "OddsHomeMarket": "NEW YORK",
+  "OddsAwayNickname": "MAMMOTH",
+  "OddsHomeNickname": "RANGERS",
+  "OddsAwayTri": "UTAH",
+  "OddsHomeTri": "NYR",
+  "MoneylineAwayOdds": "-114",
+  "MoneylineHomeOdds": "-105",
+  "SpreadAwayHandicap": "-1.5",
+  "SpreadAwayOdds": "+210",
+  "SpreadHomeHandicap": "+1.5",
+  "SpreadHomeOdds": "-265",
+  "OverUnderTotalLine": "5.5",
+  "OverUnderTotalLineDuplicate": "5.5",
+  "OverOdds": "-115",
+  "UnderOdds": "-105"
+}

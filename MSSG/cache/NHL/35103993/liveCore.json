@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "ANAHEIM DUCKS",
+  "OddsTeamHome": "PHILADELPHIA FLYERS",
+  "OddsAwayMarket": "ANAHEIM",
+  "OddsHomeMarket": "PHILADELPHIA",
+  "OddsAwayNickname": "DUCKS",
+  "OddsHomeNickname": "FLYERS",
+  "OddsAwayTri": "ANA",
+  "OddsHomeTri": "PHI",
+  "MoneylineAwayOdds": "+130",
+  "MoneylineHomeOdds": "-156",
+  "SpreadAwayHandicap": "+1.5",
+  "SpreadAwayOdds": "-188",
+  "SpreadHomeHandicap": "-1.5",
+  "SpreadHomeOdds": "+152",
+  "OverUnderTotalLine": "6.5",
+  "OverUnderTotalLineDuplicate": "6.5",
+  "OverOdds": "+106",
+  "UnderOdds": "-130"
+}

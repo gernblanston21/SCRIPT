@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "CHICAGO BULLS",
+  "OddsTeamHome": "BOSTON CELTICS",
+  "OddsAwayMarket": "CHICAGO",
+  "OddsHomeMarket": "BOSTON",
+  "OddsAwayNickname": "BULLS",
+  "OddsHomeNickname": "CELTICS",
+  "OddsAwayTri": "CHI",
+  "OddsHomeTri": "BOS",
+  "MoneylineAwayOdds": "+400",
+  "MoneylineHomeOdds": "-520",
+  "SpreadAwayHandicap": "+11.0",
+  "SpreadAwayOdds": "-110",
+  "SpreadHomeHandicap": "-11.0",
+  "SpreadHomeOdds": "-110",
+  "OverUnderTotalLine": "236.5",
+  "OverUnderTotalLineDuplicate": "236.5",
+  "OverOdds": "-112",
+  "UnderOdds": "-108"
+}

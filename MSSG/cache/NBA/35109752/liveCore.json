@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "CHARLOTTE HORNETS",
+  "OddsTeamHome": "OKLAHOMA CITY THUNDER",
+  "OddsAwayMarket": "CHARLOTTE",
+  "OddsHomeMarket": "OKLAHOMA CITY",
+  "OddsAwayNickname": "HORNETS",
+  "OddsHomeNickname": "THUNDER",
+  "OddsAwayTri": "CHA",
+  "OddsHomeTri": "OKC",
+  "MoneylineAwayOdds": "+750",
+  "MoneylineHomeOdds": "-1200",
+  "SpreadAwayHandicap": "+16.0",
+  "SpreadAwayOdds": "-110",
+  "SpreadHomeHandicap": "-16.0",
+  "SpreadHomeOdds": "-110",
+  "OverUnderTotalLine": "234.5",
+  "OverUnderTotalLineDuplicate": "234.5",
+  "OverOdds": "-108",
+  "UnderOdds": "-112"
+}

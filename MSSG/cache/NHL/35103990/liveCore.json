@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "FLORIDA PANTHERS",
+  "OddsTeamHome": "TORONTO MAPLE LEAFS",
+  "OddsAwayMarket": "FLORIDA",
+  "OddsHomeMarket": "TORONTO",
+  "OddsAwayNickname": "PANTHERS",
+  "OddsHomeNickname": "MAPLE LEAFS",
+  "OddsAwayTri": "FLA",
+  "OddsHomeTri": "TOR",
+  "MoneylineAwayOdds": "-132",
+  "MoneylineHomeOdds": "+110",
+  "SpreadAwayHandicap": "-1.5",
+  "SpreadAwayOdds": "+186",
+  "SpreadHomeHandicap": "+1.5",
+  "SpreadHomeOdds": "-230",
+  "OverUnderTotalLine": "5.5",
+  "OverUnderTotalLineDuplicate": "5.5",
+  "OverOdds": "-142",
+  "UnderOdds": "+116"
+}

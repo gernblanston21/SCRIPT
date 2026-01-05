@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "VEGAS GOLDEN KNIGHTS",
+  "OddsTeamHome": "WINNIPEG JETS",
+  "OddsAwayMarket": "VEGAS",
+  "OddsHomeMarket": "WINNIPEG",
+  "OddsAwayNickname": "GOLDEN KNIGHTS",
+  "OddsHomeNickname": "JETS",
+  "OddsAwayTri": "VGK",
+  "OddsHomeTri": "WPG",
+  "MoneylineAwayOdds": "-120",
+  "MoneylineHomeOdds": "+100",
+  "SpreadAwayHandicap": "-1.5",
+  "SpreadAwayOdds": "+198",
+  "SpreadHomeHandicap": "+1.5",
+  "SpreadHomeOdds": "-250",
+  "OverUnderTotalLine": "5.5",
+  "OverUnderTotalLineDuplicate": "5.5",
+  "OverOdds": "-138",
+  "UnderOdds": "+112"
+}

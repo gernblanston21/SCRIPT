@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "UTAH JAZZ",
+  "OddsTeamHome": "PORTLAND TRAIL BLAZERS",
+  "OddsAwayMarket": "UTAH",
+  "OddsHomeMarket": "PORTLAND",
+  "OddsAwayNickname": "JAZZ",
+  "OddsHomeNickname": "TRAIL BLAZERS",
+  "OddsAwayTri": "UTAH",
+  "OddsHomeTri": "POR",
+  "MoneylineAwayOdds": "+194",
+  "MoneylineHomeOdds": "-235",
+  "SpreadAwayHandicap": "+6.0",
+  "SpreadAwayOdds": "-110",
+  "SpreadHomeHandicap": "-6.0",
+  "SpreadHomeOdds": "-110",
+  "OverUnderTotalLine": "242.5",
+  "OverUnderTotalLineDuplicate": "242.5",
+  "OverOdds": "-110",
+  "UnderOdds": "-110"
+}

@@ -1,0 +1,1742 @@
+[
+  {
+    "eventId": 35103991,
+    "name": "Dallas Stars @ Carolina Hurricanes",
+    "openDate": "2026-01-07T00:00:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/dallas-stars-@-carolina-hurricanes-35103991",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151725836",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214931",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 25612,
+            "odds": "+118",
+            "handicap": 0,
+            "impliedProbability": 0.4387555297701066,
+            "runnerName": "Dallas Stars",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214931&selectionId=25612&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25607,
+            "odds": "-142",
+            "handicap": 0,
+            "impliedProbability": 0.5612444702298934,
+            "runnerName": "Carolina Hurricanes",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214931&selectionId=25607&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725850",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214904",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 25612,
+            "odds": "-205",
+            "handicap": 1.5,
+            "impliedProbability": 0.6395651146301111,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Dallas Stars",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214904&selectionId=25612&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25607,
+            "odds": "+164",
+            "handicap": -1.5,
+            "impliedProbability": 0.3604348853698888,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Carolina Hurricanes",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214904&selectionId=25607&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725851",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214927",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "+112",
+            "handicap": 6.5,
+            "impliedProbability": 0.44858262967430634,
+            "formattedHandicap": "O 6.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214927&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "-138",
+            "handicap": 6.5,
+            "impliedProbability": 0.5514173703256937,
+            "formattedHandicap": "U 6.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214927&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35103990,
+    "name": "Florida Panthers @ Toronto Maple Leafs",
+    "openDate": "2026-01-07T00:30:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/florida-panthers-@-toronto-maple-leafs-35103990",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151725832",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214899",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 25608,
+            "odds": "-132",
+            "handicap": 0,
+            "impliedProbability": 0.5443833464257658,
+            "runnerName": "Florida Panthers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214899&selectionId=25608&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25600,
+            "odds": "+110",
+            "handicap": 0,
+            "impliedProbability": 0.45561665357423414,
+            "runnerName": "Toronto Maple Leafs",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214899&selectionId=25600&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725849",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214898",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 25608,
+            "odds": "+186",
+            "handicap": -1.5,
+            "impliedProbability": 0.3340757238307349,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Florida Panthers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214898&selectionId=25608&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25600,
+            "odds": "-230",
+            "handicap": 1.5,
+            "impliedProbability": 0.665924276169265,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Toronto Maple Leafs",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214898&selectionId=25600&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725841",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214895",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "-142",
+            "handicap": 5.5,
+            "impliedProbability": 0.5589736113136027,
+            "formattedHandicap": "O 5.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214895&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "+116",
+            "handicap": 5.5,
+            "impliedProbability": 0.44102638868639743,
+            "formattedHandicap": "U 5.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214895&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35099134,
+    "name": "Minnesota Wild @ Los Angeles Kings",
+    "openDate": "2026-01-06T03:40:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/minnesota-wild-@-los-angeles-kings-35099134",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151592986",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968195",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 25604,
+            "odds": "-120",
+            "handicap": 0,
+            "impliedProbability": 0.5217391304347827,
+            "runnerName": "Minnesota Wild",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968195&selectionId=25604&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25613,
+            "odds": "+100",
+            "handicap": 0,
+            "impliedProbability": 0.4782608695652174,
+            "runnerName": "Los Angeles Kings",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968195&selectionId=25613&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151592989",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968198",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 25604,
+            "odds": "+210",
+            "handicap": -1.5,
+            "impliedProbability": 0.30762747576906874,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Minnesota Wild",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968198&selectionId=25604&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25613,
+            "odds": "-265",
+            "handicap": 1.5,
+            "impliedProbability": 0.6923725242309313,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Los Angeles Kings",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968198&selectionId=25613&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151592990",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968197",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "-114",
+            "handicap": 5.5,
+            "impliedProbability": 0.5098167539267016,
+            "formattedHandicap": "O 5.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968197&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "-105",
+            "handicap": 5.5,
+            "impliedProbability": 0.49018324607329844,
+            "formattedHandicap": "U 5.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968197&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35103994,
+    "name": "Vancouver Canucks @ Buffalo Sabres",
+    "openDate": "2026-01-07T00:00:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/vancouver-canucks-@-buffalo-sabres-35103994",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151725863",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214956",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 25605,
+            "odds": "+152",
+            "handicap": 0,
+            "impliedProbability": 0.37984164348384336,
+            "runnerName": "Vancouver Canucks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214956&selectionId=25605&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25597,
+            "odds": "-184",
+            "handicap": 0,
+            "impliedProbability": 0.6201583565161568,
+            "runnerName": "Buffalo Sabres",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214956&selectionId=25597&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725868",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214958",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 25605,
+            "odds": "-164",
+            "handicap": 1.5,
+            "impliedProbability": 0.5924416450537235,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Vancouver Canucks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214958&selectionId=25605&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25597,
+            "odds": "+134",
+            "handicap": -1.5,
+            "impliedProbability": 0.40755835494627646,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Buffalo Sabres",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214958&selectionId=25597&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725869",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214959",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "+110",
+            "handicap": 6.5,
+            "impliedProbability": 0.45401629802095467,
+            "formattedHandicap": "O 6.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214959&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "-134",
+            "handicap": 6.5,
+            "impliedProbability": 0.5459837019790454,
+            "formattedHandicap": "U 6.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214959&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35103993,
+    "name": "Anaheim Ducks @ Philadelphia Flyers",
+    "openDate": "2026-01-07T00:00:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/anaheim-ducks-@-philadelphia-flyers-35103993",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151725855",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214947",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 2294077,
+            "odds": "+130",
+            "handicap": 0,
+            "impliedProbability": 0.41639557579700714,
+            "runnerName": "Anaheim Ducks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214947&selectionId=2294077&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25589,
+            "odds": "-156",
+            "handicap": 0,
+            "impliedProbability": 0.5836044242029927,
+            "runnerName": "Philadelphia Flyers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214947&selectionId=25589&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725860",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214952",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 2294077,
+            "odds": "-188",
+            "handicap": 1.5,
+            "impliedProbability": 0.6219281663516069,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Anaheim Ducks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214952&selectionId=2294077&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25589,
+            "odds": "+152",
+            "handicap": -1.5,
+            "impliedProbability": 0.37807183364839314,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Philadelphia Flyers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214952&selectionId=25589&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725861",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214925",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "+106",
+            "handicap": 6.5,
+            "impliedProbability": 0.4620329449578144,
+            "formattedHandicap": "O 6.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214925&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "-130",
+            "handicap": 6.5,
+            "impliedProbability": 0.5379670550421857,
+            "formattedHandicap": "U 6.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214925&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35103992,
+    "name": "Colorado Avalanche @ Tampa Bay Lightning",
+    "openDate": "2026-01-07T00:00:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/colorado-avalanche-@-tampa-bay-lightning-35103992",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151725845",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214866",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 25602,
+            "odds": "-134",
+            "handicap": 0,
+            "impliedProbability": 0.548332303891291,
+            "runnerName": "Colorado Avalanche",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214866&selectionId=25602&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25609,
+            "odds": "+112",
+            "handicap": 0,
+            "impliedProbability": 0.4516676961087091,
+            "runnerName": "Tampa Bay Lightning",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214866&selectionId=25609&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725859",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214921",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 25602,
+            "odds": "+176",
+            "handicap": -1.5,
+            "impliedProbability": 0.34512510785159634,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Colorado Avalanche",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214921&selectionId=25602&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25609,
+            "odds": "-220",
+            "handicap": 1.5,
+            "impliedProbability": 0.6548748921484037,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Tampa Bay Lightning",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214921&selectionId=25609&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725858",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548214917",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "+100",
+            "handicap": 6.5,
+            "impliedProbability": 0.47639484978540775,
+            "formattedHandicap": "O 6.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214917&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "-122",
+            "handicap": 6.5,
+            "impliedProbability": 0.5236051502145922,
+            "formattedHandicap": "U 6.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548214917&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35099175,
+    "name": "Detroit Red Wings @ Ottawa Senators",
+    "openDate": "2026-01-06T00:40:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/detroit-red-wings-@-ottawa-senators-35099175",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151593042",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968298",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 25593,
+            "odds": "+126",
+            "handicap": 0,
+            "impliedProbability": 0.42315959161740996,
+            "runnerName": "Detroit Red Wings",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968298&selectionId=25593&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25599,
+            "odds": "-152",
+            "handicap": 0,
+            "impliedProbability": 0.57684040838259,
+            "runnerName": "Ottawa Senators",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968298&selectionId=25599&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151593078",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968296",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 25593,
+            "odds": "-200",
+            "handicap": 1.5,
+            "impliedProbability": 0.6341463414634148,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Detroit Red Wings",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968296&selectionId=25593&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25599,
+            "odds": "+160",
+            "handicap": -1.5,
+            "impliedProbability": 0.3658536585365854,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Ottawa Senators",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968296&selectionId=25599&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151593079",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968295",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "+112",
+            "handicap": 6.5,
+            "impliedProbability": 0.44858262967430634,
+            "formattedHandicap": "O 6.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968295&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "-138",
+            "handicap": 6.5,
+            "impliedProbability": 0.5514173703256937,
+            "formattedHandicap": "U 6.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968295&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35099174,
+    "name": "Seattle Kraken @ Calgary Flames",
+    "openDate": "2026-01-06T02:40:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/seattle-kraken-@-calgary-flames-35099174",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151593037",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968293",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 40119153,
+            "odds": "+130",
+            "handicap": 0,
+            "impliedProbability": 0.41639557579700714,
+            "runnerName": "Seattle Kraken",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968293&selectionId=40119153&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25601,
+            "odds": "-156",
+            "handicap": 0,
+            "impliedProbability": 0.5836044242029927,
+            "runnerName": "Calgary Flames",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968293&selectionId=25601&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151593069",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968254",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 40119153,
+            "odds": "-192",
+            "handicap": 1.5,
+            "impliedProbability": 0.625487379437718,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Seattle Kraken",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968254&selectionId=40119153&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25601,
+            "odds": "+154",
+            "handicap": -1.5,
+            "impliedProbability": 0.37451262056228185,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Calgary Flames",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968254&selectionId=25601&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151593068",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968258",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "-118",
+            "handicap": 5.5,
+            "impliedProbability": 0.5149751839808319,
+            "formattedHandicap": "O 5.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968258&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "-104",
+            "handicap": 5.5,
+            "impliedProbability": 0.4850248160191682,
+            "formattedHandicap": "U 5.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968258&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35104005,
+    "name": "New Jersey Devils @ New York Islanders",
+    "openDate": "2026-01-07T00:30:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/new-jersey-devils-@-new-york-islanders-35104005",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151726007",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215076",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 25586,
+            "odds": "-125",
+            "handicap": 0,
+            "impliedProbability": 0.53125,
+            "runnerName": "New Jersey Devils",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215076&selectionId=25586&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 136344,
+            "odds": "+104",
+            "handicap": 0,
+            "impliedProbability": 0.46874999999999994,
+            "runnerName": "New York Islanders",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215076&selectionId=136344&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151726011",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215078",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 25586,
+            "odds": "+198",
+            "handicap": -1.5,
+            "impliedProbability": 0.31963470319634707,
+            "formattedHandicap": "-1.5",
+            "runnerName": "New Jersey Devils",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215078&selectionId=25586&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 136344,
+            "odds": "-250",
+            "handicap": 1.5,
+            "impliedProbability": 0.6803652968036531,
+            "formattedHandicap": "+1.5",
+            "runnerName": "New York Islanders",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215078&selectionId=136344&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151726010",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215077",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "-122",
+            "handicap": 5.5,
+            "impliedProbability": 0.5236051502145922,
+            "formattedHandicap": "O 5.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215077&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "+100",
+            "handicap": 5.5,
+            "impliedProbability": 0.47639484978540775,
+            "formattedHandicap": "U 5.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215077&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35104004,
+    "name": "Vegas Golden Knights @ Winnipeg Jets",
+    "openDate": "2026-01-07T01:00:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/vegas-golden-knights-@-winnipeg-jets-35104004",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151725998",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215119",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 13305501,
+            "odds": "-120",
+            "handicap": 0,
+            "impliedProbability": 0.5217391304347827,
+            "runnerName": "Vegas Golden Knights",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215119&selectionId=13305501&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 5662327,
+            "odds": "+100",
+            "handicap": 0,
+            "impliedProbability": 0.4782608695652174,
+            "runnerName": "Winnipeg Jets",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215119&selectionId=5662327&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151726002",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215116",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 13305501,
+            "odds": "+198",
+            "handicap": -1.5,
+            "impliedProbability": 0.319634703196347,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Vegas Golden Knights",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215116&selectionId=13305501&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 5662327,
+            "odds": "-250",
+            "handicap": 1.5,
+            "impliedProbability": 0.6803652968036529,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Winnipeg Jets",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215116&selectionId=5662327&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151726003",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215111",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "-138",
+            "handicap": 5.5,
+            "impliedProbability": 0.5514173703256937,
+            "formattedHandicap": "O 5.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215111&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "+112",
+            "handicap": 5.5,
+            "impliedProbability": 0.44858262967430634,
+            "formattedHandicap": "U 5.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215111&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35104003,
+    "name": "Nashville Predators @ Edmonton Oilers",
+    "openDate": "2026-01-07T02:00:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/nashville-predators-@-edmonton-oilers-35104003",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151725989",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215104",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 25594,
+            "odds": "+155",
+            "handicap": 0,
+            "impliedProbability": 0.3752931978107896,
+            "runnerName": "Nashville Predators",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215104&selectionId=25594&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25603,
+            "odds": "-188",
+            "handicap": 0,
+            "impliedProbability": 0.6247068021892103,
+            "runnerName": "Edmonton Oilers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215104&selectionId=25603&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151726000",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215102",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 25594,
+            "odds": "-162",
+            "handicap": 1.5,
+            "impliedProbability": 0.5892386805468456,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Nashville Predators",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215102&selectionId=25594&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25603,
+            "odds": "+132",
+            "handicap": -1.5,
+            "impliedProbability": 0.41076131945315447,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Edmonton Oilers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215102&selectionId=25603&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725999",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215110",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "-105",
+            "handicap": 6.5,
+            "impliedProbability": 0.48916576381365123,
+            "formattedHandicap": "O 6.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215110&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "-115",
+            "handicap": 6.5,
+            "impliedProbability": 0.5108342361863489,
+            "formattedHandicap": "U 6.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215110&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35104001,
+    "name": "Columbus Blue Jackets @ San Jose Sharks",
+    "openDate": "2026-01-07T03:00:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/columbus-blue-jackets-@-san-jose-sharks-35104001",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151725981",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215101",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 25592,
+            "odds": "-126",
+            "handicap": 0,
+            "impliedProbability": 0.5333470989056369,
+            "runnerName": "Columbus Blue Jackets",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215101&selectionId=25592&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25615,
+            "odds": "+105",
+            "handicap": 0,
+            "impliedProbability": 0.4666529010943631,
+            "runnerName": "San Jose Sharks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215101&selectionId=25615&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725986",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215098",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 25592,
+            "odds": "+180",
+            "handicap": -1.5,
+            "impliedProbability": 0.34031413612565437,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Columbus Blue Jackets",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215098&selectionId=25592&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25615,
+            "odds": "-225",
+            "handicap": 1.5,
+            "impliedProbability": 0.6596858638743456,
+            "formattedHandicap": "+1.5",
+            "runnerName": "San Jose Sharks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215098&selectionId=25615&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725987",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215096",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "-114",
+            "handicap": 6.5,
+            "impliedProbability": 0.5086640097036909,
+            "formattedHandicap": "O 6.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215096&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "-106",
+            "handicap": 6.5,
+            "impliedProbability": 0.49133599029630914,
+            "formattedHandicap": "U 6.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215096&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35104000,
+    "name": "Boston Bruins @ Seattle Kraken",
+    "openDate": "2026-01-07T03:00:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/boston-bruins-@-seattle-kraken-35104000",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151725970",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215065",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 25596,
+            "odds": "-126",
+            "handicap": 0,
+            "impliedProbability": 0.533347098905637,
+            "runnerName": "Boston Bruins",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215065&selectionId=25596&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 40119153,
+            "odds": "+105",
+            "handicap": 0,
+            "impliedProbability": 0.46665290109436314,
+            "runnerName": "Seattle Kraken",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215065&selectionId=40119153&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725979",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215067",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 25596,
+            "odds": "+186",
+            "handicap": -1.5,
+            "impliedProbability": 0.3326382682951048,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Boston Bruins",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215067&selectionId=25596&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 40119153,
+            "odds": "-235",
+            "handicap": 1.5,
+            "impliedProbability": 0.6673617317048953,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Seattle Kraken",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215067&selectionId=40119153&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151725978",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548215070",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "-128",
+            "handicap": 5.5,
+            "impliedProbability": 0.5338567222767419,
+            "formattedHandicap": "O 5.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215070&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "+104",
+            "handicap": 5.5,
+            "impliedProbability": 0.4661432777232581,
+            "formattedHandicap": "U 5.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548215070&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35099177,
+    "name": "Anaheim Ducks @ Washington Capitals",
+    "openDate": "2026-01-06T00:10:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/anaheim-ducks-@-washington-capitals-35099177",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151593055",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968281",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 2294077,
+            "odds": "+116",
+            "handicap": 0,
+            "impliedProbability": 0.44247787610619466,
+            "runnerName": "Anaheim Ducks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968281&selectionId=2294077&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25610,
+            "odds": "-140",
+            "handicap": 0,
+            "impliedProbability": 0.5575221238938055,
+            "runnerName": "Washington Capitals",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968281&selectionId=25610&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151593066",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968331",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 2294077,
+            "odds": "-205",
+            "handicap": 1.5,
+            "impliedProbability": 0.6395651146301111,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Anaheim Ducks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968331&selectionId=2294077&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 25610,
+            "odds": "+164",
+            "handicap": -1.5,
+            "impliedProbability": 0.3604348853698888,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Washington Capitals",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968331&selectionId=25610&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151593067",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968282",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "-122",
+            "handicap": 6.5,
+            "impliedProbability": 0.5236051502145922,
+            "formattedHandicap": "O 6.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968282&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "+100",
+            "handicap": 6.5,
+            "impliedProbability": 0.47639484978540775,
+            "formattedHandicap": "U 6.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968282&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35099176,
+    "name": "Utah Mammoth @ New York Rangers",
+    "openDate": "2026-01-06T00:10:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/ice-hockey/nhl/utah-mammoth-@-new-york-rangers-35099176",
+    "competitionName": "NHL",
+    "competitionId": 12550521,
+    "markets": [
+      {
+        "marketId": "754.151593051",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968308",
+        "sortPriority": 0,
+        "selections": [
+          {
+            "selectionId": 83920082,
+            "odds": "-114",
+            "handicap": 0,
+            "impliedProbability": 0.5098167539267016,
+            "runnerName": "Utah Mammoth",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968308&selectionId=83920082&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 226870,
+            "odds": "-105",
+            "handicap": 0,
+            "impliedProbability": 0.49018324607329844,
+            "runnerName": "New York Rangers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968308&selectionId=226870&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151593081",
+        "marketName": "Puck Line",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968303",
+        "sortPriority": 10,
+        "selections": [
+          {
+            "selectionId": 83920082,
+            "odds": "+210",
+            "handicap": -1.5,
+            "impliedProbability": 0.30762747576906874,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Utah Mammoth",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968303&selectionId=83920082&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 226870,
+            "odds": "-265",
+            "handicap": 1.5,
+            "impliedProbability": 0.6923725242309313,
+            "formattedHandicap": "+1.5",
+            "runnerName": "New York Rangers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968303&selectionId=226870&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151593080",
+        "marketName": "Total Goals",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.547968305",
+        "sortPriority": 20,
+        "selections": [
+          {
+            "selectionId": 7017911,
+            "odds": "-115",
+            "handicap": 5.5,
+            "impliedProbability": 0.5108342361863489,
+            "formattedHandicap": "O 5.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968305&selectionId=7017911&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017912,
+            "odds": "-105",
+            "handicap": 5.5,
+            "impliedProbability": 0.48916576381365123,
+            "formattedHandicap": "U 5.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.547968305&selectionId=7017912&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  }
+]

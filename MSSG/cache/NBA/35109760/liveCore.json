@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "DENVER NUGGETS",
+  "OddsTeamHome": "PHILADELPHIA 76ERS",
+  "OddsAwayMarket": "DENVER",
+  "OddsHomeMarket": "PHILADELPHIA",
+  "OddsAwayNickname": "NUGGETS",
+  "OddsHomeNickname": "76ERS",
+  "OddsAwayTri": "DEN",
+  "OddsHomeTri": "PHI",
+  "MoneylineAwayOdds": "+480",
+  "MoneylineHomeOdds": "-650",
+  "SpreadAwayHandicap": "+11.5",
+  "SpreadAwayOdds": "-106",
+  "SpreadHomeHandicap": "-11.5",
+  "SpreadHomeOdds": "-114",
+  "OverUnderTotalLine": "229.5",
+  "OverUnderTotalLineDuplicate": "229.5",
+  "OverOdds": "-110",
+  "UnderOdds": "-110"
+}

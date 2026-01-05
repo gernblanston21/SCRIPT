@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "DETROIT RED WINGS",
+  "OddsTeamHome": "OTTAWA SENATORS",
+  "OddsAwayMarket": "DETROIT",
+  "OddsHomeMarket": "OTTAWA",
+  "OddsAwayNickname": "RED WINGS",
+  "OddsHomeNickname": "SENATORS",
+  "OddsAwayTri": "DET",
+  "OddsHomeTri": "OTT",
+  "MoneylineAwayOdds": "+126",
+  "MoneylineHomeOdds": "-152",
+  "SpreadAwayHandicap": "+1.5",
+  "SpreadAwayOdds": "-200",
+  "SpreadHomeHandicap": "-1.5",
+  "SpreadHomeOdds": "+160",
+  "OverUnderTotalLine": "6.5",
+  "OverUnderTotalLineDuplicate": "6.5",
+  "OverOdds": "+112",
+  "UnderOdds": "-138"
+}

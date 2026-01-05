@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "ATLANTA HAWKS",
+  "OddsTeamHome": "TORONTO RAPTORS",
+  "OddsAwayMarket": "ATLANTA",
+  "OddsHomeMarket": "TORONTO",
+  "OddsAwayNickname": "HAWKS",
+  "OddsHomeNickname": "RAPTORS",
+  "OddsAwayTri": "ATL",
+  "OddsHomeTri": "TOR",
+  "MoneylineAwayOdds": "+126",
+  "MoneylineHomeOdds": "-148",
+  "SpreadAwayHandicap": "+3.0",
+  "SpreadAwayOdds": "-110",
+  "SpreadHomeHandicap": "-3.0",
+  "SpreadHomeOdds": "-110",
+  "OverUnderTotalLine": "233.5",
+  "OverUnderTotalLineDuplicate": "233.5",
+  "OverOdds": "-112",
+  "UnderOdds": "-108"
+}

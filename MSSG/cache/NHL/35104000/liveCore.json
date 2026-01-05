@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "BOSTON BRUINS",
+  "OddsTeamHome": "SEATTLE KRAKEN",
+  "OddsAwayMarket": "BOSTON",
+  "OddsHomeMarket": "SEATTLE",
+  "OddsAwayNickname": "BRUINS",
+  "OddsHomeNickname": "KRAKEN",
+  "OddsAwayTri": "BOS",
+  "OddsHomeTri": "SEA",
+  "MoneylineAwayOdds": "-126",
+  "MoneylineHomeOdds": "+105",
+  "SpreadAwayHandicap": "-1.5",
+  "SpreadAwayOdds": "+186",
+  "SpreadHomeHandicap": "+1.5",
+  "SpreadHomeOdds": "-235",
+  "OverUnderTotalLine": "5.5",
+  "OverUnderTotalLineDuplicate": "5.5",
+  "OverOdds": "-128",
+  "UnderOdds": "+104"
+}

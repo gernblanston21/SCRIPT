@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "MINNESOTA WILD",
+  "OddsTeamHome": "LOS ANGELES KINGS",
+  "OddsAwayMarket": "MINNESOTA",
+  "OddsHomeMarket": "LOS ANGELES",
+  "OddsAwayNickname": "WILD",
+  "OddsHomeNickname": "KINGS",
+  "OddsAwayTri": "MIN",
+  "OddsHomeTri": "LA",
+  "MoneylineAwayOdds": "-120",
+  "MoneylineHomeOdds": "+100",
+  "SpreadAwayHandicap": "-1.5",
+  "SpreadAwayOdds": "+210",
+  "SpreadHomeHandicap": "+1.5",
+  "SpreadHomeOdds": "-265",
+  "OverUnderTotalLine": "5.5",
+  "OverUnderTotalLineDuplicate": "5.5",
+  "OverOdds": "-114",
+  "UnderOdds": "-105"
+}

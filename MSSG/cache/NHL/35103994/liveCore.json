@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "VANCOUVER CANUCKS",
+  "OddsTeamHome": "BUFFALO SABRES",
+  "OddsAwayMarket": "VANCOUVER",
+  "OddsHomeMarket": "BUFFALO",
+  "OddsAwayNickname": "CANUCKS",
+  "OddsHomeNickname": "SABRES",
+  "OddsAwayTri": "VAN",
+  "OddsHomeTri": "BUF",
+  "MoneylineAwayOdds": "+152",
+  "MoneylineHomeOdds": "-184",
+  "SpreadAwayHandicap": "+1.5",
+  "SpreadAwayOdds": "-164",
+  "SpreadHomeHandicap": "-1.5",
+  "SpreadHomeOdds": "+134",
+  "OverUnderTotalLine": "6.5",
+  "OverUnderTotalLineDuplicate": "6.5",
+  "OverOdds": "+110",
+  "UnderOdds": "-134"
+}

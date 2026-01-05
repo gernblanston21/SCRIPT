@@ -1,0 +1,930 @@
+[
+  {
+    "eventId": 35109703,
+    "name": "New York Knicks @ Detroit Pistons",
+    "openDate": "2026-01-06T00:10:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-detroit-pistons-35109703",
+    "competitionName": "NBA",
+    "competitionId": 10547864,
+    "markets": [
+      {
+        "marketId": "754.151861775",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548445610",
+        "sortPriority": -9000,
+        "selections": [
+          {
+            "selectionId": 237482,
+            "odds": "-134",
+            "handicap": 0,
+            "impliedProbability": 0.5506567324679315,
+            "runnerName": "New York Knicks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445610&selectionId=237482&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 237474,
+            "odds": "+114",
+            "handicap": 0,
+            "impliedProbability": 0.4493432675320685,
+            "runnerName": "Detroit Pistons",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445610&selectionId=237474&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.152103473",
+        "marketName": "Total Points",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548860037",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 7017823,
+            "odds": "-110",
+            "handicap": 232.5,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "O 232.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548860037&selectionId=7017823&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017824,
+            "odds": "-110",
+            "handicap": 232.5,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "U 232.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548860037&selectionId=7017824&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151861776",
+        "marketName": "Spread Betting",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548445608",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 237482,
+            "odds": "-106",
+            "handicap": -2.5,
+            "impliedProbability": 0.49133599029630914,
+            "formattedHandicap": "-2.5",
+            "runnerName": "New York Knicks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445608&selectionId=237482&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 237474,
+            "odds": "-114",
+            "handicap": 2.5,
+            "impliedProbability": 0.5086640097036909,
+            "formattedHandicap": "+2.5",
+            "runnerName": "Detroit Pistons",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445608&selectionId=237474&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35109765,
+    "name": "Utah Jazz @ Portland Trail Blazers",
+    "openDate": "2026-01-06T03:10:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/basketball/nba/utah-jazz-@-portland-trail-blazers-35109765",
+    "competitionName": "NBA",
+    "competitionId": 10547864,
+    "markets": [
+      {
+        "marketId": "754.151862173",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548446157",
+        "sortPriority": -9000,
+        "selections": [
+          {
+            "selectionId": 237484,
+            "odds": "+194",
+            "handicap": 0,
+            "impliedProbability": 0.32654254800662835,
+            "runnerName": "Utah Jazz",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446157&selectionId=237484&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 237480,
+            "odds": "-235",
+            "handicap": 0,
+            "impliedProbability": 0.6734574519933717,
+            "runnerName": "Portland Trail Blazers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446157&selectionId=237480&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.152107733",
+        "marketName": "Total Points",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548865651",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 7017823,
+            "odds": "-110",
+            "handicap": 242.5,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "O 242.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548865651&selectionId=7017823&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017824,
+            "odds": "-110",
+            "handicap": 242.5,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "U 242.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548865651&selectionId=7017824&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151862174",
+        "marketName": "Spread Betting",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548446155",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 237484,
+            "odds": "-110",
+            "handicap": 6,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "+6.0",
+            "runnerName": "Utah Jazz",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446155&selectionId=237484&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 237480,
+            "odds": "-110",
+            "handicap": -6,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "-6.0",
+            "runnerName": "Portland Trail Blazers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446155&selectionId=237480&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35109763,
+    "name": "Golden State Warriors @ Los Angeles Clippers",
+    "openDate": "2026-01-06T03:10:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/basketball/nba/golden-state-warriors-@-los-angeles-clippers-35109763",
+    "competitionName": "NBA",
+    "competitionId": 10547864,
+    "markets": [
+      {
+        "marketId": "754.151862140",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548446104",
+        "sortPriority": -9000,
+        "selections": [
+          {
+            "selectionId": 237493,
+            "odds": "-122",
+            "handicap": 0,
+            "impliedProbability": 0.5285423037716616,
+            "runnerName": "Golden State Warriors",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446104&selectionId=237493&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 6023845,
+            "odds": "+104",
+            "handicap": 0,
+            "impliedProbability": 0.47145769622833844,
+            "runnerName": "Los Angeles Clippers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446104&selectionId=6023845&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151862141",
+        "marketName": "Spread Betting",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548446102",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 237493,
+            "odds": "-108",
+            "handicap": -1.5,
+            "impliedProbability": 0.4956702459300312,
+            "formattedHandicap": "-1.5",
+            "runnerName": "Golden State Warriors",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446102&selectionId=237493&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 6023845,
+            "odds": "-112",
+            "handicap": 1.5,
+            "impliedProbability": 0.5043297540699689,
+            "formattedHandicap": "+1.5",
+            "runnerName": "Los Angeles Clippers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446102&selectionId=6023845&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.152102780",
+        "marketName": "Total Points",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548859076",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 7017823,
+            "odds": "-108",
+            "handicap": 225.5,
+            "impliedProbability": 0.4956702459300312,
+            "formattedHandicap": "O 225.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548859076&selectionId=7017823&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017824,
+            "odds": "-112",
+            "handicap": 225.5,
+            "impliedProbability": 0.5043297540699689,
+            "formattedHandicap": "U 225.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548859076&selectionId=7017824&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35109728,
+    "name": "Atlanta Hawks @ Toronto Raptors",
+    "openDate": "2026-01-06T00:40:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/basketball/nba/atlanta-hawks-@-toronto-raptors-35109728",
+    "competitionName": "NBA",
+    "competitionId": 10547864,
+    "markets": [
+      {
+        "marketId": "754.151861915",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548445817",
+        "sortPriority": -9000,
+        "selections": [
+          {
+            "selectionId": 237490,
+            "odds": "+126",
+            "handicap": 0,
+            "impliedProbability": 0.42576569152588944,
+            "runnerName": "Atlanta Hawks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445817&selectionId=237490&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 237476,
+            "odds": "-148",
+            "handicap": 0,
+            "impliedProbability": 0.5742343084741107,
+            "runnerName": "Toronto Raptors",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445817&selectionId=237476&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151861914",
+        "marketName": "Spread Betting",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548445815",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 237490,
+            "odds": "-110",
+            "handicap": 3,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "+3.0",
+            "runnerName": "Atlanta Hawks",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445815&selectionId=237490&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 237476,
+            "odds": "-110",
+            "handicap": -3,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "-3.0",
+            "runnerName": "Toronto Raptors",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445815&selectionId=237476&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.152109891",
+        "marketName": "Total Points",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548868509",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 7017823,
+            "odds": "-112",
+            "handicap": 233.5,
+            "impliedProbability": 0.5043297540699689,
+            "formattedHandicap": "O 233.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548868509&selectionId=7017823&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017824,
+            "odds": "-108",
+            "handicap": 233.5,
+            "impliedProbability": 0.4956702459300312,
+            "formattedHandicap": "U 233.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548868509&selectionId=7017824&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35109744,
+    "name": "Phoenix Suns @ Houston Rockets",
+    "openDate": "2026-01-06T01:10:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/basketball/nba/phoenix-suns-@-houston-rockets-35109744",
+    "competitionName": "NBA",
+    "competitionId": 10547864,
+    "markets": [
+      {
+        "marketId": "754.151862005",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548445946",
+        "sortPriority": -9000,
+        "selections": [
+          {
+            "selectionId": 237487,
+            "odds": "+270",
+            "handicap": 0,
+            "impliedProbability": 0.2597790385189608,
+            "runnerName": "Phoenix Suns",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445946&selectionId=237487&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 237488,
+            "odds": "-335",
+            "handicap": 0,
+            "impliedProbability": 0.7402209614810391,
+            "runnerName": "Houston Rockets",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445946&selectionId=237488&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151862004",
+        "marketName": "Spread Betting",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548445944",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 237487,
+            "odds": "-114",
+            "handicap": 8.5,
+            "impliedProbability": 0.5086640097036909,
+            "formattedHandicap": "+8.5",
+            "runnerName": "Phoenix Suns",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445944&selectionId=237487&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 237488,
+            "odds": "-106",
+            "handicap": -8.5,
+            "impliedProbability": 0.49133599029630914,
+            "formattedHandicap": "-8.5",
+            "runnerName": "Houston Rockets",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445944&selectionId=237488&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.152111453",
+        "marketName": "Total Points",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548870894",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 7017823,
+            "odds": "-112",
+            "handicap": 223.5,
+            "impliedProbability": 0.5043297540699689,
+            "formattedHandicap": "O 223.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548870894&selectionId=7017823&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017824,
+            "odds": "-108",
+            "handicap": 223.5,
+            "impliedProbability": 0.4956702459300312,
+            "formattedHandicap": "U 223.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548870894&selectionId=7017824&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35109760,
+    "name": "Denver Nuggets @ Philadelphia 76ers",
+    "openDate": "2026-01-06T01:40:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/basketball/nba/denver-nuggets-@-philadelphia-76ers-35109760",
+    "competitionName": "NBA",
+    "competitionId": 10547864,
+    "markets": [
+      {
+        "marketId": "754.151862108",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548446073",
+        "sortPriority": -9000,
+        "selections": [
+          {
+            "selectionId": 237492,
+            "odds": "+480",
+            "handicap": 0,
+            "impliedProbability": 0.16592920353982304,
+            "runnerName": "Denver Nuggets",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446073&selectionId=237492&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 40274538,
+            "odds": "-650",
+            "handicap": 0,
+            "impliedProbability": 0.834070796460177,
+            "runnerName": "Philadelphia 76ers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446073&selectionId=40274538&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.152112907",
+        "marketName": "Total Points",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548873104",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 7017823,
+            "odds": "-110",
+            "handicap": 229.5,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "O 229.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548873104&selectionId=7017823&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017824,
+            "odds": "-110",
+            "handicap": 229.5,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "U 229.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548873104&selectionId=7017824&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151862109",
+        "marketName": "Spread Betting",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548446071",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 237492,
+            "odds": "-106",
+            "handicap": 11.5,
+            "impliedProbability": 0.49133599029630914,
+            "formattedHandicap": "+11.5",
+            "runnerName": "Denver Nuggets",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446071&selectionId=237492&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 40274538,
+            "odds": "-114",
+            "handicap": -11.5,
+            "impliedProbability": 0.5086640097036909,
+            "formattedHandicap": "-11.5",
+            "runnerName": "Philadelphia 76ers",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446071&selectionId=40274538&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35109711,
+    "name": "Chicago Bulls @ Boston Celtics",
+    "openDate": "2026-01-06T00:40:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/basketball/nba/chicago-bulls-@-boston-celtics-35109711",
+    "competitionName": "NBA",
+    "competitionId": 10547864,
+    "markets": [
+      {
+        "marketId": "754.151861833",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548445732",
+        "sortPriority": -9000,
+        "selections": [
+          {
+            "selectionId": 237494,
+            "odds": "+400",
+            "handicap": 0,
+            "impliedProbability": 0.19254658385093168,
+            "runnerName": "Chicago Bulls",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445732&selectionId=237494&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 60427,
+            "odds": "-520",
+            "handicap": 0,
+            "impliedProbability": 0.8074534161490684,
+            "runnerName": "Boston Celtics",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445732&selectionId=60427&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151861834",
+        "marketName": "Spread Betting",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548445730",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 237494,
+            "odds": "-110",
+            "handicap": 11,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "+11.0",
+            "runnerName": "Chicago Bulls",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445730&selectionId=237494&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 60427,
+            "odds": "-110",
+            "handicap": -11,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "-11.0",
+            "runnerName": "Boston Celtics",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548445730&selectionId=60427&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.152106113",
+        "marketName": "Total Points",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548863554",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 7017823,
+            "odds": "-112",
+            "handicap": 236.5,
+            "impliedProbability": 0.5043297540699689,
+            "formattedHandicap": "O 236.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548863554&selectionId=7017823&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017824,
+            "odds": "-108",
+            "handicap": 236.5,
+            "impliedProbability": 0.4956702459300312,
+            "formattedHandicap": "U 236.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548863554&selectionId=7017824&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "eventId": 35109752,
+    "name": "Charlotte Hornets @ Oklahoma City Thunder",
+    "openDate": "2026-01-06T01:10:00.000Z",
+    "eventUrl": "https://sportsbook.fanduel.com/basketball/nba/charlotte-hornets-@-oklahoma-city-thunder-35109752",
+    "competitionName": "NBA",
+    "competitionId": 10547864,
+    "markets": [
+      {
+        "marketId": "754.151862059",
+        "marketName": "Moneyline",
+        "marketStatus": "OPEN",
+        "marketType": "MONEY_LINE",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548446023",
+        "sortPriority": -9000,
+        "selections": [
+          {
+            "selectionId": 8622709,
+            "odds": "+750",
+            "handicap": 0,
+            "impliedProbability": 0.11304347826086954,
+            "runnerName": "Charlotte Hornets",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446023&selectionId=8622709&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 3319741,
+            "odds": "-1200",
+            "handicap": 0,
+            "impliedProbability": 0.8869565217391304,
+            "runnerName": "Oklahoma City Thunder",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446023&selectionId=3319741&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.152109735",
+        "marketName": "Total Points",
+        "marketStatus": "OPEN",
+        "marketType": "TOTAL_POINTS_(OVER/UNDER)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548868411",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 7017823,
+            "odds": "-108",
+            "handicap": 234.5,
+            "impliedProbability": 0.4956702459300312,
+            "formattedHandicap": "O 234.5",
+            "runnerName": "Over",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548868411&selectionId=7017823&shareBetId=partner_dsg",
+            "resultType": "OVER",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 7017824,
+            "odds": "-112",
+            "handicap": 234.5,
+            "impliedProbability": 0.5043297540699689,
+            "formattedHandicap": "U 234.5",
+            "runnerName": "Under",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548868411&selectionId=7017824&shareBetId=partner_dsg",
+            "resultType": "UNDER",
+            "sortPriority": 2
+          }
+        ]
+      },
+      {
+        "marketId": "754.151862060",
+        "marketName": "Spread Betting",
+        "marketStatus": "OPEN",
+        "marketType": "MATCH_HANDICAP_(2-WAY)",
+        "inPlay": false,
+        "sgmMarket": true,
+        "externalMarketId": "42.548446021",
+        "sortPriority": -8950,
+        "selections": [
+          {
+            "selectionId": 8622709,
+            "odds": "-110",
+            "handicap": 16,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "+16.0",
+            "runnerName": "Charlotte Hornets",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446021&selectionId=8622709&shareBetId=partner_dsg",
+            "resultType": "AWAY",
+            "sortPriority": 1
+          },
+          {
+            "selectionId": 3319741,
+            "odds": "-110",
+            "handicap": -16,
+            "impliedProbability": 0.5,
+            "formattedHandicap": "-16.0",
+            "runnerName": "Oklahoma City Thunder",
+            "runnerStatus": "ACTIVE",
+            "url": "https://account.sportsbook.fanduel.com/sportsbook/addToBetslip?marketId=42.548446021&selectionId=3319741&shareBetId=partner_dsg",
+            "resultType": "HOME",
+            "sortPriority": 2
+          }
+        ]
+      }
+    ]
+  }
+]

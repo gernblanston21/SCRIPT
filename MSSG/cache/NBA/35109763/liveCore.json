@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "GOLDEN STATE WARRIORS",
+  "OddsTeamHome": "LOS ANGELES CLIPPERS",
+  "OddsAwayMarket": "GOLDEN STATE",
+  "OddsHomeMarket": "LOS ANGELES",
+  "OddsAwayNickname": "WARRIORS",
+  "OddsHomeNickname": "CLIPPERS",
+  "OddsAwayTri": "GS",
+  "OddsHomeTri": "LAC",
+  "MoneylineAwayOdds": "-122",
+  "MoneylineHomeOdds": "+104",
+  "SpreadAwayHandicap": "-1.5",
+  "SpreadAwayOdds": "-108",
+  "SpreadHomeHandicap": "+1.5",
+  "SpreadHomeOdds": "-112",
+  "OverUnderTotalLine": "225.5",
+  "OverUnderTotalLineDuplicate": "225.5",
+  "OverOdds": "-108",
+  "UnderOdds": "-112"
+}

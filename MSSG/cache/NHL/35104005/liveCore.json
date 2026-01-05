@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "NEW JERSEY DEVILS",
+  "OddsTeamHome": "NEW YORK ISLANDERS",
+  "OddsAwayMarket": "NEW JERSEY",
+  "OddsHomeMarket": "NEW YORK",
+  "OddsAwayNickname": "DEVILS",
+  "OddsHomeNickname": "ISLANDERS",
+  "OddsAwayTri": "NJ",
+  "OddsHomeTri": "NYI",
+  "MoneylineAwayOdds": "-125",
+  "MoneylineHomeOdds": "+104",
+  "SpreadAwayHandicap": "-1.5",
+  "SpreadAwayOdds": "+198",
+  "SpreadHomeHandicap": "+1.5",
+  "SpreadHomeOdds": "-250",
+  "OverUnderTotalLine": "5.5",
+  "OverUnderTotalLineDuplicate": "5.5",
+  "OverOdds": "-122",
+  "UnderOdds": "+100"
+}

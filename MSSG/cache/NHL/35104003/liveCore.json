@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "NASHVILLE PREDATORS",
+  "OddsTeamHome": "EDMONTON OILERS",
+  "OddsAwayMarket": "NASHVILLE",
+  "OddsHomeMarket": "EDMONTON",
+  "OddsAwayNickname": "PREDATORS",
+  "OddsHomeNickname": "OILERS",
+  "OddsAwayTri": "NSH",
+  "OddsHomeTri": "EDM",
+  "MoneylineAwayOdds": "+155",
+  "MoneylineHomeOdds": "-188",
+  "SpreadAwayHandicap": "+1.5",
+  "SpreadAwayOdds": "-162",
+  "SpreadHomeHandicap": "-1.5",
+  "SpreadHomeOdds": "+132",
+  "OverUnderTotalLine": "6.5",
+  "OverUnderTotalLineDuplicate": "6.5",
+  "OverOdds": "-105",
+  "UnderOdds": "-115"
+}

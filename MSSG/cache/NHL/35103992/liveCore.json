@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "COLORADO AVALANCHE",
+  "OddsTeamHome": "TAMPA BAY LIGHTNING",
+  "OddsAwayMarket": "COLORADO",
+  "OddsHomeMarket": "TAMPA BAY",
+  "OddsAwayNickname": "AVALANCHE",
+  "OddsHomeNickname": "LIGHTNING",
+  "OddsAwayTri": "COL",
+  "OddsHomeTri": "TB",
+  "MoneylineAwayOdds": "-134",
+  "MoneylineHomeOdds": "+112",
+  "SpreadAwayHandicap": "-1.5",
+  "SpreadAwayOdds": "+176",
+  "SpreadHomeHandicap": "+1.5",
+  "SpreadHomeOdds": "-220",
+  "OverUnderTotalLine": "6.5",
+  "OverUnderTotalLineDuplicate": "6.5",
+  "OverOdds": "+100",
+  "UnderOdds": "-122"
+}

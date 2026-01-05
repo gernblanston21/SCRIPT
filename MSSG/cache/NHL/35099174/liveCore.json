@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "SEATTLE KRAKEN",
+  "OddsTeamHome": "CALGARY FLAMES",
+  "OddsAwayMarket": "SEATTLE",
+  "OddsHomeMarket": "CALGARY",
+  "OddsAwayNickname": "KRAKEN",
+  "OddsHomeNickname": "FLAMES",
+  "OddsAwayTri": "SEA",
+  "OddsHomeTri": "CGY",
+  "MoneylineAwayOdds": "+130",
+  "MoneylineHomeOdds": "-156",
+  "SpreadAwayHandicap": "+1.5",
+  "SpreadAwayOdds": "-192",
+  "SpreadHomeHandicap": "-1.5",
+  "SpreadHomeOdds": "+154",
+  "OverUnderTotalLine": "5.5",
+  "OverUnderTotalLineDuplicate": "5.5",
+  "OverOdds": "-118",
+  "UnderOdds": "-104"
+}

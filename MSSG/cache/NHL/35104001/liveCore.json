@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "COLUMBUS BLUE JACKETS",
+  "OddsTeamHome": "SAN JOSE SHARKS",
+  "OddsAwayMarket": "COLUMBUS",
+  "OddsHomeMarket": "SAN JOSE",
+  "OddsAwayNickname": "BLUE JACKETS",
+  "OddsHomeNickname": "SHARKS",
+  "OddsAwayTri": "CBJ",
+  "OddsHomeTri": "SJS",
+  "MoneylineAwayOdds": "-126",
+  "MoneylineHomeOdds": "+105",
+  "SpreadAwayHandicap": "-1.5",
+  "SpreadAwayOdds": "+180",
+  "SpreadHomeHandicap": "+1.5",
+  "SpreadHomeOdds": "-225",
+  "OverUnderTotalLine": "6.5",
+  "OverUnderTotalLineDuplicate": "6.5",
+  "OverOdds": "-114",
+  "UnderOdds": "-106"
+}

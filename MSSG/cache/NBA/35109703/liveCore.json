@@ -1,0 +1,20 @@
+{
+  "OddsTeamAway": "NEW YORK KNICKS",
+  "OddsTeamHome": "DETROIT PISTONS",
+  "OddsAwayMarket": "NEW YORK",
+  "OddsHomeMarket": "DETROIT",
+  "OddsAwayNickname": "KNICKS",
+  "OddsHomeNickname": "PISTONS",
+  "OddsAwayTri": "NYK",
+  "OddsHomeTri": "DET",
+  "MoneylineAwayOdds": "-134",
+  "MoneylineHomeOdds": "+114",
+  "SpreadAwayHandicap": "-2.5",
+  "SpreadAwayOdds": "-106",
+  "SpreadHomeHandicap": "+2.5",
+  "SpreadHomeOdds": "-114",
+  "OverUnderTotalLine": "232.5",
+  "OverUnderTotalLineDuplicate": "232.5",
+  "OverOdds": "-110",
+  "UnderOdds": "-110"
+}
